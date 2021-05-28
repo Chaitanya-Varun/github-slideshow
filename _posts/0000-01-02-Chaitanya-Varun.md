@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Rumpum pum tara rum pum tum!
 Use the left arrow to go back!
